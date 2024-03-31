@@ -1,24 +1,15 @@
-<table>
-  <tr>
-    <td>
-      <h1>Hi 👋, I'm Oleksandr Korovii</h1>
-      <h3>Enthusiastic Full Stack Developer Seeking Tech-Savvy Friends!</h3>
-    </td>
-    <td>
-      <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476jlpk4f9pu7bwm7kkjnajlgehy8ithlx21vtqfl5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="pinguin coding" width="150" height="150"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h1>Hi everyone, I'm Oleksandr Korovii</h1>
+  <h3>I'm enthusiastic Full Stack Developer and this is my GitHub!</h3>
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sir1ys&label=Profile%20views&color=0e75b6&style=flat" alt="sir1ys" /> </p>
-
-- 🔭 I’m currently working on [Collab Hub](https://github.com/Sir1ys/collab-hub-fe)
 
 - 🌱 I’m currently learning **TypeScript and Tailwind**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/oleksandr-korovii-7b293a229/recent-activity/all/](https://www.linkedin.com/in/oleksandr-korovii-7b293a229/recent-activity/all/)
 
-- 💬 Ask me about **everything what you want :)**
+- 💬 Ask me about **If we haven't connected before, feel free to drop me a message along with your connection request!**
 
 - 📫 You can reach me by **sashakoroviy@gmail.com**
 
